@@ -35,7 +35,7 @@
   "dependencies": {
     "@npmcli/arborist": "^6.2.3",
     "@npmcli/run-script": "^4.1.7",
-    "@nrwl/devkit": "15.8.7",
+    "@nrwl/devkit": "15.9.7",
     "@octokit/plugin-enterprise-rest": "^6.0.1",
     "@octokit/rest": "^19.0.3",
     "@swc/helpers": "~0.4.11",
